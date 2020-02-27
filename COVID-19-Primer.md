@@ -5,7 +5,7 @@ By Peter Kaminski. Version 2020-02-27-001. You may forward this note to other pe
 ## Contents
 
 * Disclaimer
-* Current status (2020-02-25)
+* Current status
 * Likely outcomes
 * Slow the spread of the virus
 * Masks
