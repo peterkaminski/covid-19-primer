@@ -12,6 +12,10 @@ future worlds.
 * 1937 - They came like swallows, William Maxwell.
 * 1939 - Pale horse, pale rider. Katherine Anne Porter
 
+## Plague 
+
+* 1947 - The Plague, Albert Camus
+
 ## Speculative fiction
 
 * 1978 - The Stand, Stephen King.
