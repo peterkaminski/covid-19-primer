@@ -6,15 +6,15 @@ future worlds.
 
 ## Spanish Flu (1918 pandemic)
 
-* 1922. One of ours, Willa Cather.
-* 1929. Look homeward angel, Thomas Wolfe.
-* 1935. The doctor's son, John O'Hara.
-* 1937. They came like swallows, William Maxwell.
-* 1939. Pale horse, pale rider. Katherine Anne Porter
+* 1922 - One of ours, Willa Cather.
+* 1929 - Look homeward angel, Thomas Wolfe.
+* 1935 - The doctor's son, John O'Hara.
+* 1937 - They came like swallows, William Maxwell.
+* 1939 - Pale horse, pale rider. Katherine Anne Porter
 
 ## Speculative fiction
 
-* 2014. Station Eleven, Emily St. John Mandel.
+* 2014 - Station Eleven, Emily St. John Mandel.
 
 ## Sources
 
